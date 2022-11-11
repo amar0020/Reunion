@@ -1,0 +1,10 @@
+.home{
+    margin: auto;
+    margin-top: 50px;
+    width: 80%;
+}
+.allData{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+}
